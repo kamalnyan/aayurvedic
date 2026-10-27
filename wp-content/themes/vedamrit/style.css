@@ -1,0 +1,56 @@
+/*
+Theme Name: VEDAMRIT - Premium Ayurvedic Wellness
+Theme URI: https://github.com/kamalnyan/aayurvedic
+Author: VEDAMRIT Botanicals
+Author URI: https://github.com/kamalnyan
+Description: A luxury, minimalist, nature-inspired WordPress & WooCommerce theme designed for authentic Indian Ayurvedic brands. Features full support for classical formulations, Dosha energetics, whole-herb ingredient transparency, persistent cart drawer, and interactive client demo experiences.
+Version: 1.0.0
+Tested up to: 6.7
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+Text Domain: vedamrit
+Tags: e-commerce, custom-colors, custom-menu, featured-images, flexible-header, full-width-template, theme-options, translation-ready, woocommerce
+*/
+
+:root {
+  --color-forest-950: #0a1b12;
+  --color-forest-900: #142e20;
+  --color-forest-800: #1c3c2b;
+  --color-forest-700: #254e38;
+  --color-forest-600: #2e6146;
+
+  --color-sage-50: #f4f7f5;
+  --color-sage-100: #e8efe9;
+  --color-sage-200: #d3dfd6;
+  --color-sage-300: #b2c6b7;
+  --color-sage-500: #67866f;
+  --color-sage-600: #526458;
+
+  --color-sand-50: #fbf9f5;
+  --color-sand-100: #f4eee3;
+  --color-sand-200: #eae2d2;
+  --color-sand-300: #d8c6ac;
+  --color-sand-400: #c2aa8a;
+
+  --color-gold-300: #e5c378;
+  --color-gold-400: #d4a753;
+  --color-gold-500: #bf9436;
+  --color-gold-600: #9e7623;
+
+  --font-serif: 'Playfair Display', Georgia, Cambria, 'Times New Roman', serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+
+  --bg-primary: #fbf9f5;
+  --bg-secondary: #f4eee3;
+  --bg-card: #ffffff;
+  --text-primary: #142e20;
+  --text-muted: #526458;
+  --border-subtle: #eae2d2;
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --radius-xl: 28px;
+  --shadow-subtle: 0 4px 20px -2px rgba(20, 46, 32, 0.05);
+  --shadow-hover: 0 12px 32px -4px rgba(20, 46, 32, 0.12);
+  --transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
